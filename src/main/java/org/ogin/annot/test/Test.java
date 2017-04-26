@@ -1,4 +1,4 @@
-package org.ogin.annot;
+package org.ogin.annot.test;
 
 /**
  * @author ogin

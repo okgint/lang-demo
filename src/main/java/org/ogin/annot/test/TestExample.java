@@ -1,8 +1,5 @@
 package org.ogin.annot.test;
 
-import org.ogin.annot.Test;
-import org.ogin.annot.TesterInfo;
-
 /**
  * @author ogin
  */
